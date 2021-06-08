@@ -1,0 +1,28 @@
+
+
+#Logo {
+    width: 250px;
+    margin-top: 50px;
+}
+
+.Intestazione {
+    background-color: #4EA0FF;
+    background-image: url("pattern.png");
+    background-repeat: repeat;
+    background-size: 50%;
+    height: 120px;
+    margin: 0px;
+}
+
+
+#title{
+    margin-bottom: 0px;
+
+}
+
+.data{
+    color: gray;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
