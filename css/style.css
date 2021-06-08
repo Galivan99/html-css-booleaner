@@ -33,3 +33,47 @@
 #crediti{
     margin-top: 0px;
 }
+
+#lista{
+    text-align: left;
+}
+
+table{
+    text-align: left;
+    border-collapse: collapse;
+}
+
+th{
+    width: 750px;
+    color: white;
+    
+}
+
+
+.Titoli_tab{
+    background-color: #20A9E5;
+}
+
+.blue{
+    background-color: #B1E5F2;
+}
+
+#fine{
+    color: gray;
+}
+
+#monitor{
+    color: white;
+    background-image: url("monitor.jpg");
+    width: 311px;
+    height: 207px;
+    text-align: center;
+}
+
+#graph{
+    color: white;
+    background-image: url("graph.jpg");
+    width: 311px;
+    height: 207px;
+    text-align: center;
+}
